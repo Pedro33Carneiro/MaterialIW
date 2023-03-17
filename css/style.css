@@ -6,4 +6,8 @@ h1{
      color: rgb(53, 42, 218);
     text-align: center;
 }
-    
+
+header{
+      width: 100%;
+      background-color: firebrick;
+}
