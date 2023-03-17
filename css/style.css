@@ -21,3 +21,9 @@ header{
       text-align: center;
       font-size: 1.4em;
 } 
+.banner{
+      width: 100%;
+}
+.containeir{
+      background-color: aqua;
+}
