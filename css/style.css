@@ -1,9 +1,11 @@
 body{
       background-color: darkslateblue;
+      background-attachment: fixed;
+      font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-h1{
-     color: rgb(53, 42, 218);
+h1, h2{
+     color: rgb(235, 15, 15);
     text-align: center;
 }
 
@@ -34,4 +36,23 @@ footer{
       color: blueviolet;
       font-size: 1.3em;
       text-align: center;
+}
+.fundo{
+      text-align: center;
+      font-size: 1.4em;
+}
+p{
+      padding-top: 1%;
+      padding-bottom: 0.5%;
+      line-height: 1.7;
+      font-size: 1.2em;
+}
+.listameio li{
+      line-height: 2;
+      font-size: 1.2em;
+}
+section{
+      background-color: blue;
+      padding-left: 2%;
+      padding-right: 2%;
 }
