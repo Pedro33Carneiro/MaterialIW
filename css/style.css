@@ -1,58 +1,70 @@
-body{
+body {
+      background-image: url(../img/fundo\ 76.webp);
+      background-attachment: fixed;
       background-color: darkslateblue;
       background-attachment: fixed;
       font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-h1, h2{
-     color: rgb(235, 15, 15);
-    text-align: center;
+h1,
+h2 {
+      color: rgb(235, 15, 15);
+      text-align: center;
 }
 
-header{
+header {
       width: 100%;
-      background-color: firebrick;
+
 }
-.logo{
+
+.logo {
       color: bisque;
       text-align: center;
       font-size: 1.4em;
-} 
-.nav{
+}
+
+.nav {
       color: bisque;
       text-align: center;
       font-size: 1.4em;
-} 
-.banner{
+}
+
+.banner {
       width: 100%;
 }
-.containeir{
+
+.containeir {
       background-color: aqua;
       width: 80%;
       margin: auto;
 }
-footer{
-      background-color: blue;
+
+footer {
+
       color: blueviolet;
       font-size: 1.3em;
       text-align: center;
 }
-.fundo{
+
+.fundo {
       text-align: center;
       font-size: 1.4em;
 }
-p{
+
+p {
       padding-top: 1%;
       padding-bottom: 0.5%;
       line-height: 1.7;
       font-size: 1.2em;
 }
-.listameio li{
+
+.listameio li {
       line-height: 2;
       font-size: 1.2em;
 }
-section{
-      background-color: blue;
+
+section {
+
       padding-left: 2%;
       padding-right: 2%;
 }
