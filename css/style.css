@@ -68,3 +68,37 @@ section {
       padding-left: 2%;
       padding-right: 2%;
 }
+
+.icone {
+      width: 2%;
+}
+
+.imgdireita {
+      float: right;
+}
+
+.imgtam {
+      width: 30%;
+      margin-left: 2%;
+}
+
+.linha {
+      display: flex;
+      flex-flow: row wrap;
+      text-align: center;
+}
+
+.col-6 {
+      width: 25%;
+}
+
+/* Responsive layout - makes a one column layout instead of a two-column layout */
+@media (max-width: 800px) {
+      .linha {
+            flex-direction: column;
+      }
+
+      .col-6 {
+            width: 100%;
+      }
+}
