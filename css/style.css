@@ -128,3 +128,16 @@ section {
 .github {
       width: 15%;
 }
+
+table {
+      font-family: Arial, Helvetica, sans-serif;
+      width: 100%;
+      border-collapse: collapse;
+}
+
+th,
+td {
+      border: 1px solid rgb(255, 255, 255);
+      text-align: left;
+      padding 8px
+}
