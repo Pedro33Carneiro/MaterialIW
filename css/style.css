@@ -59,9 +59,11 @@ p {
       font-size: 1.2em;
 }
 
-.listameio li {
+.listameio,
+li {
       line-height: 2;
       font-size: 1.2em;
+      list-style-image: url('../img/trophy.ico');
 }
 
 section {
