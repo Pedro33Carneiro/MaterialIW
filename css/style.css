@@ -11,6 +11,7 @@ h1,
 h2 {
       color: rgb(255, 255, 255);
       text-align: center;
+      font-size: 2.0;
 }
 
 header {
@@ -57,6 +58,7 @@ p {
       padding-bottom: 0.5%;
       line-height: 1.7;
       font-size: 1.2em;
+      color: rgb(255, 255, 255);
 }
 
 .listameio,
@@ -64,12 +66,14 @@ li {
       line-height: 2;
       font-size: 1.2em;
       list-style-image: url('../img/trophy.ico');
+      text-align: center;
 }
 
 section {
 
       padding-left: 2%;
       padding-right: 2%;
+      color: rgb(255, 255, 255);
 }
 
 .icone {
