@@ -155,3 +155,26 @@ a {
 .logo-topo {
       width: 300%;
 }
+
+.itens_menu {
+      position: absolute;
+      right: 3%;
+      top: 10%;
+      width: 45%;
+}
+
+.itens_menu ul li {
+      display: inline;
+      margin-left: 1%;
+}
+
+.logo {
+      padding-top: 1%;
+      padding-bottom: 1%;
+      text-align: left;
+      width: 5%;
+}
+
+header {
+      flex-direction: row;
+}
